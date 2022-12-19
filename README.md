@@ -9,7 +9,7 @@ Fully responsive(Mobile,Tablet,Desktop)</h2>
 <p>Mobile-first workflow</p>
 
 <h2>Links:</h2>
-<p>Live Site URL: <a href="https://george199626.github.io/art-gallery-website/">Click here</a></p>
+<p>Live Site URL: <a href="https://george199626.github.io/Art-gallery-website/">Click here</a></p>
 
 <h2>Author:</h2>
 <p>Linkedin - <a href="https://www.linkedin.com/in/giorgi-giorgadze-b771901a6/">Giorgi Giorgadze</a></p>
